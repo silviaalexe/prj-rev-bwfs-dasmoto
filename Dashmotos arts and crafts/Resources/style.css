@@ -1,0 +1,39 @@
+h1 {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: khaki;
+  font-size: 100px;
+  text-align: center;
+  text-align: horizontal;
+  background-image: url('https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg')
+}
+
+h1, h2, h3, p {
+  font-family: Helvetica;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.frames {
+  background-color: lightcoral;
+  color: white;
+}
+
+.paint {
+  background-color: skyblue;
+  color: white;
+}
+
+.brushes {
+  background-color: mediumspringgreen;
+  color:white;
+}
+
+
+
+.description strong {
+  color: blue;
+}
